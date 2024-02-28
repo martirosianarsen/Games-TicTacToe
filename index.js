@@ -83,4 +83,4 @@ class TicTacToe {
     }
 }
 
-const ticTacToe = new TicTacToe('X', 'O');
+new TicTacToe('X', 'O');
